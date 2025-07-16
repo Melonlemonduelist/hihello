@@ -1,20 +1,30 @@
-# Once UI for Next.js
 
-A design system for indie builders, startups and freelancers. Once UI combines the simplicity of low-code with the power of code: write 70% less compared to shadcn + tailwind.
+# Zoe Ames Portfolio
+
+Welcome! I'm **Zoe Ames**. This summer, I'm part of the Summer Youth Employment Program, where I'm learning full stack web development and game development. I'm also helping other students learn these skills along the way!
+
+In addition to coding, I love drawing—both digitally and traditionally. This site is a showcase of my journey as a developer, mentor, and artist.
+
+---
+
+*Built with Once UI for Next.js*
 
 ![Once UI](public/images/og/home.jpg)
 
 ## Features
 
-A lightweight starter template with the [Once UI Core](https://github.com/once-ui-system/core) package and our recommended setup to move fast and break limits without neglecting quality.
 
-* **Customization**: Manage design config in a single file.
-* **Components**: Access advanced components with simple APIs.
-* **Data-viz**: Add responsive charts with a few lines of code.
-* **SEO**: Use our SEO components to simplify meta and schema setup.
-* **PRO**: Launch ready-made apps with minimal coding with Once UI Pro.
+---
 
-[Get Once UI Pro](https://once-ui.com/pricing)
+## About Me
+
+- **Name:** Zoe Ames
+- **Program:** Summer Youth Employment
+- **Focus:** Full Stack Web Development, Game Development
+- **Role:** Student & Peer Mentor
+- **Art:** Digital & Traditional Drawing
+
+---
 
 ## Demo
 
@@ -50,13 +60,12 @@ git clone https://github.com/once-ui-system/nextjs-starter.git
 Deploy to Vercel with a single click:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fnextjs-starter&redirect-url=https%3A%2F%2Fonce-ui.com%2F)
 
-## Creators
 
-Connect with us!
+## Contact
 
-**Lorant One**: [Site](https://lorant.one) / [Threads](https://www.threads.net/@lorant.one) / [LinkedIn](https://www.linkedin.com/in/lorant-one/)
+Want to connect or see my work? Stay tuned for more updates and links to my projects and art!
 
-**Zsofia Komaromi**: [Site](https://zsofia.pro) / [Threads](https://www.threads.net/@zsofia_kom) / [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+---
 
 ## Become a Oncer
 
