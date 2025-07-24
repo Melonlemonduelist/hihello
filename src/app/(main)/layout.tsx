@@ -47,6 +47,9 @@ export default function RootLayout({
         path={meta.home.path}
       />
       <head>
+        {/* Dragon favicon */}
+        <link rel="icon" href="https://em-content.zobj.net/source/microsoft-teams/363/dragon_1f409.png" />
+        <title>Zoe Ames's Portfolio</title>
         <script
           id="theme-init"
           dangerouslySetInnerHTML={{

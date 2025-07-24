@@ -16,13 +16,18 @@ In addition to coding, I love drawing—both digitally and traditionally. This s
 
 ---
 
+
 ## About Me
 
 - **Name:** Zoe Ames
+- **Age:** 15
+- **Birthday:** June 24th, 2010
 - **Program:** Summer Youth Employment
 - **Focus:** Full Stack Web Development, Game Development
 - **Role:** Student & Peer Mentor
 - **Art:** Digital & Traditional Drawing
+- **Gamer:** I love playing games! My favorites are Roblox, Minecraft, Pokémon, and Mario Bros/Mario Kart.
+- **YouTuber:** I also create content and share my experiences on YouTube.
 
 ---
 
