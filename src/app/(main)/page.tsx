@@ -36,7 +36,7 @@ export default function Home() {
     { id: 2, emoji: '🍕', available: true },
     { id: 3, emoji: '🍪', available: true }
   ]);
-  const [draggedFood, setDraggedFood] = React.useState(null);
+  const [draggedFood, setDraggedFood] = React.useState<number | null>(null);
   const [geraldHappy, setGeraldHappy] = React.useState(false);
   const [happyMsg, setHappyMsg] = React.useState("");
 
@@ -53,7 +53,7 @@ export default function Home() {
   }, [foods]);
 
   // Drag handlers
-  const handleDragStart = (id) => setDraggedFood(id);
+  const handleDragStart = (id: number) => setDraggedFood(id);
   const handleDragEnd = () => setDraggedFood(null);
   const handleDropOnGerald = () => {
     if (draggedFood != null) {
@@ -120,7 +120,7 @@ export default function Home() {
             This summer, I'm part of the Summer Youth Employment Program, where I'm learning full stack web development and game development.
           </Text>
           <Text variant="body-default-l" style={{ color: '#222', marginBottom: 16 }}>
-            In addition to coding, I love drawing—both digitally and traditionally. I'm also a gamer (Roblox, Minecraft, Pokémon, Mario Bros/Mario Kart) and a YouTuber sharing my experiences!
+            In addition to coding, I love drawing—both digitally and traditionally. I'm also a gamer (Roblox, Minecraft, Pokémon, Mario Bros/Mario Kart, Bubble/Puzzle bobble) and a YouTuber sharing my experiences!
           </Text>
           <Column align="start" gap="xs" style={{ margin: '24px 0', width: '100%' }}>
             <Heading variant="heading-strong-m" style={{ color: '#d7263d' }}>About Me</Heading>
